@@ -5,7 +5,7 @@
 **L'Ethique** est un ensemble de regles, de principes et de code de conduite qui determine la facon dont il faut se comporter en entreprise.
 Toute entreprise a un code de deontologie
 
-**CHERCHER A SAVOIR CE QUE DIT LA LOI CAR NUL N'EST SENSE L'IGNORER**
+**CHERCHER A SAVOIR CE QUE DIT LA LOI CAR NUL N'EST CENSE L'IGNORER**
 
 ## Les valeurs en entreprise
 
@@ -25,6 +25,18 @@ Toute entreprise a un code de deontologie
 . L'honnetete dans les informations communiques (la fiabilite)
 . Le respect de sa parole
 . La discipline
+. Etre exemplaire, etre un model
+. Etre courtois et communiquer de facon professionnel
+. Le respect des procedures
+. Tenue vestimentaire professionnelle
+. Assumer ses actes, ses erreurs
+
+## Comportements proscrits
+
+. Les retards
+. Les abscences non justifiees
+. L'insubordinnation
+. L'utilisation abusive des outils de travail
 
 ## La difference entre la loi, la morale et l'ethique
 
